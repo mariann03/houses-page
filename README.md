@@ -1,5 +1,7 @@
 # Houses Page
-A simple list of houses with infinite scrolling built using react, styled-components, and rws 
+A simple list of houses with infinite scrolling built using react, styled-components, and swr
+
+[Demo](https://houses-page.now.sh/)
 
 ## Instructions to deploy locally
 

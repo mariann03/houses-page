@@ -20,7 +20,7 @@ const Container = style.div`
 `
 
 const PER_PAGE = 10
-const API_URL = 'http://app-homevision-staging.herokuapp.com/api_project/houses'
+const API_URL = 'https://app-homevision-staging.herokuapp.com/api_project/houses'
 let toastId
 
 export default function Home() {
